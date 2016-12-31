@@ -1,0 +1,5 @@
+1: demo gcc -E
+2: demo gcc -S
+3: demo gcc -c
+4: demo build ELF executable
+5. shared library

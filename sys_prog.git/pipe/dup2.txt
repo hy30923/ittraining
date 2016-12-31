@@ -1,0 +1,2 @@
+hello dup2() stderr
+hello dup2() stdout
